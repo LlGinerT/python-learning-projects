@@ -1,0 +1,11 @@
+ID,Nombre,Descripcion,Stock
+P001,Teclado mecanico,Teclado de alta calidad para gaming,150
+P002,Raton optico,Raton ergonomico con sensor preciso,200
+P003,Monitor curvo,Monitor de 27 pulgadas con panel de 144 Hz,75
+P004,Placa base ATX,Placa base compatible con procesadores de ultima generacion,42
+P005,Memoria RAM 16 GB,Modulo DDR4 de 16 GB a 3200 MHz,128
+P006,SSD NVMe 1 TB,Unidad de estado solido para alto rendimiento,96
+P007,Fuente 750 W,Fuente de alimentacion certificada 80 Plus Gold,34
+P008,Tarjeta de red PCIe,Adaptador Gigabit Ethernet para sobremesa,57
+P009,Webcam Full HD,Camara web con microfono integrado para videollamadas,81
+P010,Auriculares USB,Auriculares con cancelacion pasiva de ruido,63

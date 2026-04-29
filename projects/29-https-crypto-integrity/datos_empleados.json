@@ -1,0 +1,14 @@
+[
+  {
+    "id": "E001",
+    "nombre": "Ana Martin",
+    "puesto": "Administracion",
+    "salario": 28500
+  },
+  {
+    "id": "E002",
+    "nombre": "David Navarro",
+    "puesto": "Soporte tecnico",
+    "salario": 31200
+  }
+]
